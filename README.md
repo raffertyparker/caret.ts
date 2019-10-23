@@ -155,7 +155,7 @@ Predictions and testing:
 
 ### ARIMA model
 
-Auto-regressive moving-average models with differneces (ARIMA) also support exogeneous variables if desired. By using `arima_model(p, d, q)`, one can construct an ARIMA model of a fixed, pre-defined order:
+Auto-regressive moving-average models with differences (ARIMA) also support exogeneous variables if desired. By using `arima_model(p, d, q)`, one can construct an ARIMA model of a fixed, pre-defined order:
 
 -   `p`: Order of auto-regressive (AR) terms
 
